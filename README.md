@@ -32,7 +32,7 @@ This project implements a **fake news classification model** using **multimodal 
 
 ---
 
-##📖 Usage
+## 📖 Usage
 - **Open the project in Google Colab.**
 - **Upload the notebook and connect to a GPU runtime.**
 - **Run all cells to:**
